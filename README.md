@@ -5,8 +5,8 @@ to a list of Telegram contacts that have subscribed to it.
 
 # GETTING STARTED
 
-	1 - SETTING UP YOUR NEW BOT TO RECEIVE MESSAGES
--------------------------------------------------------------------------
+## 1 - SETTING UP YOUR NEW BOT TO RECEIVE MESSAGES
+
 The first thing you need to do is create a new Telegram Bot that is going
 to receive these messages. This is very easy to do and you do it just by
 using Telegram itself to talk to a Bot called the "BotFather".
@@ -28,8 +28,7 @@ token, they will be able to control your new Bot. On the other hand, if you
 lose it, you won't be able to control the Bot anymore. So keep it secret,
 keep it safe!
 
-	2 - EDITING CONFIG.JSON
--------------------------------------------------------------------------
+## 2 - EDITING CONFIG.JSON
 
 There will be a file called "config.json" next to this text file. Open it up
 with a text editor like Notepad. You will see something like this:
@@ -59,8 +58,7 @@ So, for instance, a filled out config file might look like this:
 
 Save the file and close your text editor.
 
-	3 - RUN TELEGRAMFORWARDER.EXE
--------------------------------------------------------------------------
+## 3 - RUN TELEGRAMFORWARDER.EXE
 
 Now you are ready to run the program itself. Just run the file:
 
