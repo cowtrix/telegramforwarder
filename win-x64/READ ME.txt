@@ -1,9 +1,27 @@
-# WHAT THIS DOES
+Copyright 2019 Sean Finnegan
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+	http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+////////////////////////////////////////////////////////////////////////
+///////		WHAT THIS DOES										////////
+////////////////////////////////////////////////////////////////////////
 
 This will run a Telegram Bot that will receive messages, and forward them
 to a list of Telegram contacts that have subscribed to it.
 
-# GETTING STARTED
+////////////////////////////////////////////////////////////////////////
+///////		GETTING STARTED										////////
+////////////////////////////////////////////////////////////////////////
 
 	1 - SETTING UP YOUR NEW BOT TO RECEIVE MESSAGES
 -------------------------------------------------------------------------
@@ -73,7 +91,9 @@ stay up and show when people send the Bot messages.
 All you have to do is leave this program running on a computer that has
 internet access. If the computer restarts, just rerun the program.
 
-# SUBSCRIBING
+////////////////////////////////////////////////////////////////////////
+///////		SUBSCRIBING 										////////
+////////////////////////////////////////////////////////////////////////
 
 So you've got the program running, and now you want to receive any
 messages that other users send to it. Easy! All you need to do is send
@@ -90,6 +110,8 @@ The Bot will tell you that you are subscribed. Now, when anyone else
 messages the Bot, it will forward that message to you and to anyone
 else who has subscribed to it.
 
-# SUPPORT
+////////////////////////////////////////////////////////////////////////
+///////		SUPPORT		 										////////
+////////////////////////////////////////////////////////////////////////
 
 Contact seandgfinnegan@gmail.com for support
